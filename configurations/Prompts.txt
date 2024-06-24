@@ -1,0 +1,1 @@
+mlagents-learn configurations/configuracionTrainingLSTM0.yaml --run-id EntrenamientoLSTM0-2 --resume --quality 0 --time-scale 1   

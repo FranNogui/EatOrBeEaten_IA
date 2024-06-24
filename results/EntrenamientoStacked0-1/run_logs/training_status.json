@@ -1,0 +1,66 @@
+{
+    "IARedNeuronal": {
+        "checkpoints": [
+            {
+                "steps": 1564265,
+                "file_path": "results\\EntrenamientoStacked0-1\\IARedNeuronal\\IARedNeuronal-1564265.onnx",
+                "reward": null,
+                "creation_time": 1718108296.9830797,
+                "auxillary_file_paths": [
+                    "results\\EntrenamientoStacked0-1\\IARedNeuronal\\IARedNeuronal-1564265.pt"
+                ]
+            },
+            {
+                "steps": 1999970,
+                "file_path": "results\\EntrenamientoStacked0-1\\IARedNeuronal\\IARedNeuronal-1999970.onnx",
+                "reward": -1.7089715351661046,
+                "creation_time": 1718112968.4651787,
+                "auxillary_file_paths": [
+                    "results\\EntrenamientoStacked0-1\\IARedNeuronal\\IARedNeuronal-1999970.pt"
+                ]
+            },
+            {
+                "steps": 2499981,
+                "file_path": "results\\EntrenamientoStacked0-1\\IARedNeuronal\\IARedNeuronal-2499981.onnx",
+                "reward": -2.2333815777674317,
+                "creation_time": 1718117358.6437485,
+                "auxillary_file_paths": [
+                    "results\\EntrenamientoStacked0-1\\IARedNeuronal\\IARedNeuronal-2499981.pt"
+                ]
+            },
+            {
+                "steps": 2999954,
+                "file_path": "results\\EntrenamientoStacked0-1\\IARedNeuronal\\IARedNeuronal-2999954.onnx",
+                "reward": -3.0031516328454018,
+                "creation_time": 1718123175.9868228,
+                "auxillary_file_paths": [
+                    "results\\EntrenamientoStacked0-1\\IARedNeuronal\\IARedNeuronal-2999954.pt"
+                ]
+            },
+            {
+                "steps": 3339485,
+                "file_path": "results\\EntrenamientoStacked0-1\\IARedNeuronal\\IARedNeuronal-3339485.onnx",
+                "reward": -3.0091610737144947,
+                "creation_time": 1718126565.8443618,
+                "auxillary_file_paths": [
+                    "results\\EntrenamientoStacked0-1\\IARedNeuronal\\IARedNeuronal-3339485.pt"
+                ]
+            }
+        ],
+        "elo": 1903.0017491020424,
+        "final_checkpoint": {
+            "steps": 3339485,
+            "file_path": "results\\EntrenamientoStacked0-1\\IARedNeuronal.onnx",
+            "reward": -3.0091610737144947,
+            "creation_time": 1718126565.8443618,
+            "auxillary_file_paths": [
+                "results\\EntrenamientoStacked0-1\\IARedNeuronal\\IARedNeuronal-3339485.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

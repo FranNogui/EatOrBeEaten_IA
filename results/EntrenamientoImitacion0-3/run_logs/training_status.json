@@ -1,0 +1,39 @@
+{
+    "IARedNeuronal": {
+        "checkpoints": [
+            {
+                "steps": 499963,
+                "file_path": "results\\EntrenamientoImitacion0-3\\IARedNeuronal\\IARedNeuronal-499963.onnx",
+                "reward": -2.992451927810907,
+                "creation_time": 1717852534.060944,
+                "auxillary_file_paths": [
+                    "results\\EntrenamientoImitacion0-3\\IARedNeuronal\\IARedNeuronal-499963.pt"
+                ]
+            },
+            {
+                "steps": 972348,
+                "file_path": "results\\EntrenamientoImitacion0-3\\IARedNeuronal\\IARedNeuronal-972348.onnx",
+                "reward": -2.998915523290634,
+                "creation_time": 1717863108.2197075,
+                "auxillary_file_paths": [
+                    "results\\EntrenamientoImitacion0-3\\IARedNeuronal\\IARedNeuronal-972348.pt"
+                ]
+            }
+        ],
+        "elo": 2122.7463602195726,
+        "final_checkpoint": {
+            "steps": 972348,
+            "file_path": "results\\EntrenamientoImitacion0-3\\IARedNeuronal.onnx",
+            "reward": -2.998915523290634,
+            "creation_time": 1717863108.2197075,
+            "auxillary_file_paths": [
+                "results\\EntrenamientoImitacion0-3\\IARedNeuronal\\IARedNeuronal-972348.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
